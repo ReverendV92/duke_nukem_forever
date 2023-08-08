@@ -1,0 +1,34 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/characters/dnf/duke/duke_head
+	$bumpmap models/v92/characters/dnf/duke/duke_head_normal
+
+	$phong 1
+	$phongexponent 10
+	$phongtint "[ 0.5 0.5 0.5 ]"
+	$phongboost 0.2
+	$phongfresnelranges "[ 0.2 0.5 1 ]"
+	$basemapalphaphongmask 0.1
+	$phongalbedotint 1
+
+	$rimlight 1
+	$rimlightexponent 1
+	$rimlightboost 0.2
+
+	$color2 "[ 1 1 1 ]"
+	proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}
