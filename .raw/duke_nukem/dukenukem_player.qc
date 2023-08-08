@@ -41,7 +41,7 @@ $lod 60
 }
 $shadowlod
 {
-	replacemodel duke_ref duke_ref_lod4
+	replacemodel duke_ref duke_ref_lod3
 	replacebone "ValveBiped.forward" "ValveBiped.Bip01_Head1"
 	replacebone "ValveBiped.weapon_bone" "ValveBiped.Bip01_Spine"
 	replacebone "ValveBiped.weapon_bone_RHand" "ValveBiped.weapon_bone"
