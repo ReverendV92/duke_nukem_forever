@@ -13,3 +13,6 @@
 * Vad36 - Original CS:S ports [Duke](https://gamebanana.com/mods/218461), [EDF Soldier](https://gamebanana.com/mods/217876)
 * TheKritter71 - Request
 * [V92](https://steamcommunity.com/profiles/76561197998218505) - Edits, bodygroups, colors, arms, everything else
+
+# Other Versions
+* [Garry's Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=505428228)
