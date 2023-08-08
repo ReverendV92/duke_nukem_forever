@@ -1,0 +1,23 @@
+// Duke Nukem ported by Kuristaja (kuristaja08@luukku.com)
+materials/models/player/kuristaja/duke4eva/duke/duke_body.vmt
+materials/models/player/kuristaja/duke4eva/duke/duke_body_diff.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_body_normal.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_body_spec.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_glasses.vmt
+materials/models/player/kuristaja/duke4eva/duke/duke_glasses_diff.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_glasses_normal.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_glasses_spec.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_hand.vmt
+materials/models/player/kuristaja/duke4eva/duke/duke_hand_diff.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_hand_normal.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_hand_spec.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_head.vmt
+materials/models/player/kuristaja/duke4eva/duke/duke_head_diff.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_head_normal.vtf
+materials/models/player/kuristaja/duke4eva/duke/duke_head_spec.vtf
+models/player/kuristaja/duke4eva/duke/duke.mdl
+models/player/kuristaja/duke4eva/duke/duke.phy
+models/player/kuristaja/duke4eva/duke/duke.vvd
+models/player/kuristaja/duke4eva/duke/duke.sw.vtx
+models/player/kuristaja/duke4eva/duke/duke.dx80.vtx
+models/player/kuristaja/duke4eva/duke/duke.dx90.vtx
